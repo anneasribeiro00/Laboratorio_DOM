@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+  background-color: #3ab88e;
+}
+
+h2 {
+  margin-bottom: 15px;
+}
+
+#visor {
+  width: 280px;
+  height: 50px;
+  font-size: 22px;
+  text-align: right;
+  margin-bottom: 10px;
+}
+
+button {
+  width: 65px;
+  height: 55px;
+  margin: 5px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color:#ddd;
+}
